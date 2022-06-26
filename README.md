@@ -1,4 +1,4 @@
 # specular-removal
 
 
-The code and dataset will be released soon
+The code and dataset will be released soon.
