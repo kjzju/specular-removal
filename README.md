@@ -59,7 +59,7 @@ python infer.py --input_dir './test/inp/' --output_dir './test/out/' --infer_mod
 
 ## Pre-trained Models
 
-You can download pretrained models here [M2Net](https://drive.google.com/file/d/1gY4gNfbLuvSjIgMOyeVlrY0OCJt9mZzm/view?usp=sharing) , It contains two models( text_face and nature), you can use either one according to your needs.
+You can download pretrained models here [M2Net](https://drive.google.com/file/d/1gY4gNfbLuvSjIgMOyeVlrY0OCJt9mZzm/view?usp=sharing). It contains two models( text_face and nature), and you can use either one according to your needs.
 
 ## Final Note
 
