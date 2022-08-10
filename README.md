@@ -15,7 +15,7 @@ This repository is the official implementation of [M2-Net: Multi-stages Specular
 
 **M2-Net** (the name Multi-stages Specular Highlight Detection and Removal in Multi-scenes) achieves strong performance  in multi-scenes single image specular highlight removal (natural scenes, facial scenes, text scenes etc.), surpassing previous models by a large margin.
 
-![image-20220810153228038](C:\Users\hz\AppData\Roaming\Typora\typora-user-images\image-20220810153228038.png)
+![image-20220810153228038](./overview.png)
 
 
 
