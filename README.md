@@ -54,7 +54,7 @@ python infer.py --input_dir <> --output_dir <> -- infer_model <>
 Example:
 
 ```eval
-python infer.py --input_dir './test/inp/' --output_dir './test/out/' -- infer_model './savedmodel/nature.mdl'
+python infer.py --input_dir './test/inp/' --output_dir './test/out/' --infer_model './savedmodel/nature.mdl'
 ```
 
 ## Pre-trained Models
