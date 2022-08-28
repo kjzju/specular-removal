@@ -2,14 +2,6 @@
 
 This repository is the official implementation of [M2-Net: Multi-stages Specular Highlight Detection and Removal in Multi-scenes](https://arxiv.org/abs/2207.09965). 
 
->```
->@article{huang2022m2,
->title={M2-Net: Multi-stages Specular Highlight Detection and Removal in Multi-scenes},
->author={Huang, Zhaoyangfan and Hu, Kun and Wang, Xingjun},
->journal={arXiv preprint arXiv:2207.09965},
->year={2022}
->}
->```
 
 ## Introduction
 
